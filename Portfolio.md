@@ -1,6 +1,6 @@
 # **Portfolio**
 
-Portfolioon on koottu (Ohjelmistoalan osaajaksi -koulutuksen)[https://ict-alan-osaajaksi.pages.labranet.jamk.fi/] aikana tehtyjä harjoitustöitä. Suuntautumisvaihtoehtonani oli Ohjelmistotuotanto ja laadunvarmistus.
+Portfolioon on koottu [Ohjelmistoalan osaajaksi -koulutuksen](https://ict-alan-osaajaksi.pages.labranet.jamk.fi/) aikana tehtyjä harjoitustöitä. Suuntautumisvaihtoehtonani oli Ohjelmistotuotanto ja laadunvarmistus.
 
 ## Ohjelmistoalan osaajaksi -koulutuksen Future Factory -projekti syksy 2021
 
