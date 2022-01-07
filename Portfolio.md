@@ -1,6 +1,6 @@
 # **Portfolio**
 
-## Ohjelmistoalan osaajaksi -koulutuksen projekti syksy 2021
+## Ohjelmistoalan osaajaksi -koulutuksen Future Factory -projekti syksy 2021
 
 Projektin tavoitteena oli tuottaa asiakkaalle vaatimusten mukainen keskustelufoorumi WIMMA Lab:in verkkosivuille. Forum toteuttiin hyödyntämällä Conduit-ohjelmistoa.
 
