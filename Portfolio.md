@@ -6,7 +6,7 @@ Portfolioon on koottu [Ohjelmistoalan osaajaksi -koulutuksen](https://ict-alan-o
 
 Projektin tavoitteena oli tuottaa asiakkaalle vaatimusten mukainen keskustelufoorumi WIMMA Lab:in verkkosivuille. Forum toteuttiin hyödyntämällä Conduit-ohjelmistoa.
 
-[Tiimin projektin sivusto](https://ff2020s-team3.pages.labranet.jamk.fi/core/)  
+[Tiimin projektisivusto](https://ff2020s-team3.pages.labranet.jamk.fi/core/)  
 [Tiimin sivut](https://ff2020s-team3.pages.labranet.jamk.fi/site/)  
 
 Toimin projektissa testausvastaavana. Testaushallinnan työkaluna käytettiin Testlink- ohjelmistoa, johon testitapaukset kirjattiin. Testausta tehtiin pääosin manuaalisesti. Automaatiotestausta käytettiin regressiotestuksessa ja hyväksyntätestauksessa. 
